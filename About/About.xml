@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ModMetaData>
+	<name>Melody Mystical</name>
+	<author>D4egon</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>D4egon.MelodyMystical</packageId>
+	<url>https://steamcommunity.com/id/D4egon/myworkshopfiles/?appid=294100</url>
+	<modDependenciesByVersion>
+		<v1.3>
+		  <li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		  </li>
+		</v1.3>
+    </modDependenciesByVersion>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	    <li>Ludeon.RimWorld.I</li>
+	</loadAfter>
+	<description>This mod adds a storyteller to the game. She is called Melody Mystical and she is a tiny bit crazy.
+	
+	Much like Randy, Melody doesn't follow any rules. She'll generate random events, and she won't care if they make a story of triumph or utter hopelessness. The difference being: Melody has a faster pace, more incidents and more cruel tendensies. If you thought Randy at least had a few rules, you will realize Melody does not, but she will give you a load of quests to keep you busy.
+	
+Suggestions and ideas are very welcome!
+</description>
+</ModMetaData>
